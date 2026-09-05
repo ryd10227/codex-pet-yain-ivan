@@ -2,11 +2,13 @@
 
 ![야인이반이 의자에 앉아 책을 읽는 idle 애니메이션](preview-idle.gif)
 
+![야인이반이 책상에서 글을 쓰는 running 애니메이션](preview-running.gif)
+
 뮤지컬 《브라더스 까라마조프》의 이반에서 영감을 받아 만든 비공식 Codex 데스크톱용 픽셀 모에 펫입니다.
 
 - 검은 롱코트, 회색 체크 조끼, 와인색 넥타이와 둥근 안경
 - 냉소적이고 반항적인 표정, 단정하고 정적인 태도
-- 책을 읽는 idle과 16방향 시선 반응을 포함한 v2 스프라이트
+- 책을 읽는 idle, 고정 자세의 필기 running, 16방향 시선 반응을 포함한 v2 스프라이트
 - 8열 × 11행, 1536 × 2288 WebP
 
 ## 설치
@@ -43,6 +45,7 @@ chmod +x install.sh
 - `pet.json` — Codex 펫 메타데이터
 - `spritesheet.webp` — 실제 v2 애니메이션 스프라이트
 - `preview-idle.gif` — idle 미리보기
+- `preview-running.gif` — 필기 running 미리보기
 - `contact-sheet.png` — 전체 상태 확인용 시트
 - `validation.json` — v2 구조 검증 결과
 - `SHA256SUMS.txt` — 배포 파일 무결성 확인값

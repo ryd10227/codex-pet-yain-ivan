@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "C:\\Users\\ryd10\\Documents\\Codex\\2026-09-03\\hatch-pet-c-users-ryd10-codex-2\\work\\yain-ivan-run\\qa\\running-repair-final.webp",
+  "file": "spritesheet.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -521,8 +521,8 @@
       "row": 7,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16599,
-      "opaque_chroma_key_pixels": 1,
+      "nontransparent_pixels": 16573,
+      "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
     {
@@ -530,7 +530,7 @@
       "row": 7,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16601,
+      "nontransparent_pixels": 16651,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -539,7 +539,7 @@
       "row": 7,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 16620,
+      "nontransparent_pixels": 16643,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -548,7 +548,7 @@
       "row": 7,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 16590,
+      "nontransparent_pixels": 16629,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -557,7 +557,7 @@
       "row": 7,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 16405,
+      "nontransparent_pixels": 16524,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -566,7 +566,7 @@
       "row": 7,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 16468,
+      "nontransparent_pixels": 16559,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
