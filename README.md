@@ -4,7 +4,7 @@
 
 - 검은 롱코트, 회색 체크 조끼, 와인색 넥타이와 둥근 안경
 - 냉소적이고 반항적인 표정, 단정하고 정적인 태도
-- 책을 읽는 idle, 고정 자세의 필기 running, 16방향 시선 반응을 포함한 v2 스프라이트
+- 책을 읽는 idle, 좌우 교차 보행, 필기 running, 16방향 시선 반응을 포함한 v2 스프라이트
 - 8열 × 11행, 1536 × 2288 WebP
 
 ## 상황별 애니메이션
@@ -14,7 +14,7 @@
 | 독서 중 (`idle`) | ![책을 읽는 idle 애니메이션](preview-idle.gif) | 작업 중 (`running`) | ![책상에서 글을 쓰는 running 애니메이션](preview-running.gif) |
 | 오른쪽 이동 (`running-right`) | ![오른쪽으로 이동하는 애니메이션](preview-running-right.gif) | 왼쪽 이동 (`running-left`) | ![왼쪽으로 이동하는 애니메이션](preview-running-left.gif) |
 | 인사 (`waving`) | ![손을 들어 인사하는 애니메이션](preview-waving.gif) | 대기 (`waiting`) | ![대기하는 애니메이션](preview-waiting.gif) |
-| 점프 (`jumping`) | ![팔을 올리며 정면을 노려보는 jumping 애니메이션](preview-jumping.gif) | 실패 (`failed`) | ![실패 상태 애니메이션](preview-failed.gif) |
+| 점프 (`jumping`) | ![10시 방향을 응시하며 천천히 팔을 올리는 jumping 애니메이션](preview-jumping.gif) | 실패 (`failed`) | ![실패 상태 애니메이션](preview-failed.gif) |
 | 검토 (`review`) | ![검토 중인 애니메이션](preview-review.gif) | 시선 반응 (`look`) | ![16방향 시선 반응 애니메이션](preview-look.gif) |
 
 ## 설치
